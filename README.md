@@ -36,7 +36,7 @@ Run your recruitment agency from one HTML file. 7 tabs cover candidates, clients
 
 ## Licence
 
-MIT · Simon Gant · prime 977 · ◊·κ=1.
+MIT · Simon Gant.
 
 
 ## What this tool provides
